@@ -73,6 +73,6 @@ input:focus {
     "prefix": "csm",
     "scope": "javascript,typescript,javascriptreact",
     "body": ["import styles from './${TM_FILENAME_BASE}.module.css'"],
-    "description": "Import CSS Module as `styles`"
+    "desc ription": "Import CSS Module as `styles`"
   },
 */
