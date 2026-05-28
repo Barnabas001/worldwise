@@ -27,7 +27,7 @@ export default function App() {
         setIsLoading(false);
       }
     }
-    fetchCities;
+    fetchCities();
   }, []);
 
   return (
